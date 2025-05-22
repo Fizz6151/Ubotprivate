@@ -3,7 +3,7 @@
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/Buyer11/ubotpremjojo
+git clone https://github.com/Fizz6151/Ubotprivate
 ```
 ```
 cd ubotpremjojo
